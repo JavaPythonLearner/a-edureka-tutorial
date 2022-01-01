@@ -1,0 +1,1 @@
+This is git-file_2.txt in master. First input.
